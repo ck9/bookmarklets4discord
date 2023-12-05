@@ -1,0 +1,1 @@
+javascript:(()=>{navigator.clipboard.writeText(`https://vxtwitter.com${location.pathname}`).then(e => console.error(e));})();

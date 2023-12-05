@@ -1,0 +1,1 @@
+javascript:(()=>{navigator.clipboard.writeText(`https://www.amazon.co.jp/dp/${document.getElementById('ASIN').value}`).then(e => console.error(e));})();
